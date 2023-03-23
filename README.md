@@ -1,5 +1,6 @@
 # Project 1 - Gradient Descent Methods\n,
-Natalie Pham
+
+
 $\mathbf{Goal: }$ To solve the optimal control problem,
 $$ \min_{u \in L^2(\Omega)} J(Y,u) = \frac{1}{2} || y - y_d||^2 + \frac{\gamma}{2} || u ||^2$$,
 $$ \text{subject to } \begin{cases} -\Delta y = u , & \text{in } \Omega \\\\ y \\big|_{\\partial \\Omega } = 0 ,& \\text{on } \\partial \\Omega \\end{cases}$$\n,
