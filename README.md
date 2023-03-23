@@ -1,4 +1,4 @@
-# Project 1 - Gradient Descent Methods\n,
+# Project 1 - Gradient Descent Methods,
 
 
 $\mathbf{Goal: }$ To solve the optimal control problem. 
