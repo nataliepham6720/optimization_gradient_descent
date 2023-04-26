@@ -7,3 +7,9 @@ The report presents 3 optimization methods to solve this optimal control problem
 1. Steepest gradient descent with Amijo search for step-size $\alpha$,
 2. Steepest gradient descent with exact search for step-size $\alpha$,
 3. Conjugate gradient descent
+
+# Project 2 - Quasi-Newton Gradient Descent Methods
+1. Quasi-neuton gradient descent with SR1 update
+2. Quasi-neuton gradient descent with SR2 update
+
+# Project 3 - Nesterov's Gradient Descent Methods,
