@@ -1,7 +1,8 @@
-# Project 1 - Gradient Descent Methods,
-
+# Project 1 - Gradient Descent Methods
 
 $\mathbf{Goal: }$ To solve the optimal control problem. 
+
+The reports presents a number of optimization methods to solve this optimal control problem:
  
 The report presents 3 optimization methods to solve this optimal control problem:
 1. Steepest gradient descent with Amijo search for step-size $\alpha$,
@@ -12,4 +13,4 @@ The report presents 3 optimization methods to solve this optimal control problem
 1. Quasi-neuton gradient descent with SR1 update
 2. Quasi-neuton gradient descent with SR2 update
 
-# Project 3 - Nesterov's Gradient Descent Methods,
+# Project 3 - Nesterov's Gradient Descent Methods
