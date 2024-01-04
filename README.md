@@ -1,5 +1,6 @@
 $\mathbf{Goal: }$ To solve the optimal control problem. 
 
+![image](https://github.com/nataliepham6720/optimization_gradient_descent/assets/112508461/e2f599b0-d3c3-4aa0-a93e-54a894e208df)
 
 
 The reports presents a number of optimization methods to solve this optimal control problem
